@@ -21,8 +21,8 @@ End the program
 ## Program:
 ```python
 #Program to circulate N values.
-#Developed by: priyadharshini
-#RegisterNumber:22008758
+#Developed by: VIDHIYA LAKSHMI S
+#RegisterNumber:212223230238
 def circulate():
     circul=l[n:]+l[:n]
     print("After circulating the values are:", circul)
